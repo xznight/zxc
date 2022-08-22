@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="patronymic">Отчество</string>
+    <string name="done">Готово</string>
+    <string name="avatar">Аватар</string>
+
+
+</resources>
